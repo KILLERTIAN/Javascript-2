@@ -14,5 +14,5 @@ const jonas = {
     job: 'teacher',
     friends: ['Micheal', 'Peter', 'Steven']
 }
-//order of data dosent matters in objects but it matter in arrays
+//Order of data dosent matters in objects but it matter in arrays
 //We use unstructured data in objects and structured in arrays
