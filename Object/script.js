@@ -1,4 +1,4 @@
-//Creating Objects
+//Two ways of Creating Objects
 const jonasArray = [
     'Jonas',
     'Schmedtmann',
