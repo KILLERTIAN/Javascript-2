@@ -28,3 +28,19 @@ if (jonas[interestedIn]) {
 } else {
     console.log('Wrong request! Choose between firstName,lastNamw,age,job and friends')
 }
+
+//Example of showing how dot and notaion works
+
+jonas.location = "Portugal";
+jonas['twitter'] = '@jonasschmedtman';
+console.log(jonas);
+
+//Output will be like
+// location : "Portugal";
+// twitter : "@jonasschmedtman";
+
+
+//Challenge
+// Jonas has 3 friends , and his best friend is called Micheal
+
+// console.log(`${jonas.firstName} has ${jonas.friends.length} and his best friend is ${jonas.friends[0]}`)
