@@ -19,3 +19,12 @@ console.log(jonas);
 // To get lastname from the object
 console.log(jonas.lastName);
 console.log(jonas['lastName']);
+
+//Getting elements from objects 
+const interestedIn = prompt('What do you want to know about Jonas? Choose between firstName,lastName,age,job and friends');
+
+if (jonas[interestedIn]) {
+    console.log(jonas[interestedIn]);
+} else {
+    console.log('Wrong request! Choose between firstName,lastNamw,age,job and friends')
+}
