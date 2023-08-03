@@ -40,7 +40,7 @@ console.log(jonas);
 // twitter : "@jonasschmedtman";
 
 
-//Challenge
+// Challenge
 // Jonas has 3 friends , and his best friend is called Micheal
 
 console.log(`${jonas.firstName} has ${jonas.friends.length} and his best friend is ${jonas.friends[0]}`)
