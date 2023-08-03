@@ -10,3 +10,8 @@ const jonas = {
         return 2037 - birthYear;
     }
 };
+// Dot Method
+console.log(jonas.calcAge(1991));
+
+//Bracket Method
+console.log(jonas['calcAge'](1991));
