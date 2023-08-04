@@ -31,3 +31,10 @@ const jonas2 = {
 // Dot Method
 console.log(jonas2.calcAge());
 // Here `this` is jonas2 
+
+//Another way 
+calcAge: function () {
+    this.age = 2023 - this.birthYear;
+    return this.age;
+}
+console.log(jonas2.calcAge)
