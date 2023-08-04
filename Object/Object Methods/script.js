@@ -37,4 +37,4 @@ calcAge: function () {
     this.age = 2023 - this.birthYear;
     return this.age;
 }
-console.log(jonas2.calcAge)
+console.log(jonas2.calcAge());
