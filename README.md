@@ -1,6 +1,6 @@
 # Javascript
 
-This is the JavaScript section of the course from Udemy where I update all the things I study.
+This is the from a complete javascript course and i update everything i study in course here
 
 # License 
 
