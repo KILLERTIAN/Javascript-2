@@ -1,6 +1,6 @@
 # Javascript
 
-This is the from a complete javascript course and i update everything i study in course here
+This is form a complete avascript course and i update everything i study in course here
 
 # License 
 
