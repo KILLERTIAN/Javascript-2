@@ -1,6 +1,6 @@
 # Javascript
 
-This is from a complete JavaScript course and I update everything I study in the course here
+This is from a complete JavaScript course and I update everything I study in the course here.
 
 # License 
 
