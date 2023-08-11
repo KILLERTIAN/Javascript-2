@@ -37,4 +37,12 @@ calcAge: function () {
     this.age = 2023 - this.birthYear;
     return this.age;
 }
+
 console.log(jonas2.calcAge());
+
+// Challenge
+// "Jonas is a 46 year old teacher and he has a driver's license"
+getSummary: function() {
+    return `${this.firstName} is a ${this.calcAge} years old ${this.job} and he has ${this.hasDriversLiscense ? 'a' : 'no'}driver's license.`
+}
+console.log(jonas.getSummary());
