@@ -12,7 +12,8 @@ for (let i = 0; i < jonas.length; i++) {
     types[i] = typeof jonas[i];
 
     //Another way of filling array
-    types.push(typeof jonas[i]);
+    //types.push(typeof jonas[i]);
 
 
 }
+console.log(types)
