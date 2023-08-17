@@ -2,7 +2,7 @@
 
 This is from a complete JavaScript course(Udemy), I update everything I study in the course here.
 
-Link to the course:-
+Link to the course:- https://www.udemy.com/course/the-complete-javascript-course/
 
 # License 
 
