@@ -33,3 +33,7 @@ for (let i = 0; i < jonas.length; i++) {
     console.log(jonas[i], typeof jonas[i]);
 }
 
+for (let i = 0; i < jonas.length; i++) {
+    if (typeof jonas[i] == 'number') break; // break if there is a number present
+    console.log(jonas[i], typeof jonas[i]);
+}
