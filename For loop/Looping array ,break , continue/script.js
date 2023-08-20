@@ -38,3 +38,17 @@ for (let i = 0; i < jonas.length; i++) {
     // break the loop if there is a number present
     console.log(jonas[i], typeof jonas[i]);
 }
+
+// Looping Backwards 
+
+const jonas1 = [
+    'Jonas',
+    'Schmedtmann',
+    2037 - 1991,
+    'teacher',
+    ['Micheal', 'Peter', 'Steven']
+];
+
+for (let i = jonas.length - 1; i >= 0; i--) {
+    console.log(i, jonas[i]);
+}
